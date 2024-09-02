@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# React Examples
 
-First, run the development server:
+This code repository was meticulously crafted as a direct outcome of the content from my videos shared on Instagram threads. Within this repository, you will discover the complete source code for all of my video creations. You are welcome to utilize it in any manner you see fit. However, if you find it particularly beneficial, perhaps consider [buying me a beer](https://www.paypal.com/donate/?hosted_button_id=RBJ7EW8XZXFP6) as a token of appreciation. Cheers to all the dedicated developers out there, sincerely, Marco.
+## References
+Checkout my socials:
+ - [Instagram Threads](https://www.threads.net/@marco.mendao)
+ - [Portfolio CV](https://marcomendao.betacode.tech/)
+ - [Instagram](https://www.instagram.com/marco.mendao/)
+ - [Github](https://github.com/Menda0)
+
+## Projects and Companies
+
+Here is a list of my projects and companies.
+- [Betacode](www.betacode.tech) - Software Development Company, powered by lean methodologies
+- [Voyager](https://voyagergpt.io) - Social, Block Chain, AI Powered Text Adventure
+## Stack Used
+
+**Front-end:** React, NextJs, Redux, TailwindCSS
+
+
+
+## 🛠 Techniques
+Flexbox, CSS3, HTML5, Typescript
+
+
+## How to run
+
+Clone projet
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+  git clone https://github.com/Menda0/react-examples
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Go inside directory
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+  cd react-examples
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Install dependencies
 
-## Learn More
+```bash
+  npm install // or yarn install
+```
 
-To learn more about Next.js, take a look at the following resources:
+Start developing server
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+```bash
+  npm run dev // or yarn dev
+```
